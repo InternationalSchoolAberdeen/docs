@@ -1,5 +1,9 @@
-# intro
+# Intro
 
 this is a test page
 
-## this is a sub
+## Subheading
+
+## Image Support
+
+![test](_media/nvidia.png)
