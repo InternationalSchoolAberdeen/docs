@@ -1,2 +1,3 @@
-# projectLab
-Documentation for the CS Department's Project Lab
+# 🗃 ISA’s Computer Science Department Docs
+
+> Documentation for the CS Department's Projects
