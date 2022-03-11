@@ -2,8 +2,7 @@
 
 - [Home](/)
 - [Project Lab](projectLab.md)
-- [DeepText NLG/NLP Docs](deeptext.md)
-- [Test Page](test.md)
+- [SQL & Database Server](sqlServer.md)
 
 <!-- Adds the footer to the bottom of the sidebar -->
 <footer id="mb-footer"></footer>
