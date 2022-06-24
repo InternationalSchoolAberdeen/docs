@@ -6,4 +6,10 @@
 
 > Documentation for the CS Department's Projects
 
-Makes use of [docsify](https://docsify.js.org/#/) to generate the wiki's static pages.
+## ❓ Info & Devloping Locally
+This wiki makes use of [docsify](https://docsify.js.org/#/) to generate pages. 
+
+To devlop locally:
+* Clone the repo `git clone https://github.com/InternationalSchoolAberdeen/docs.git`
+* Open the folder in your terminal and run `npm i docsify-cli -g`
+* Then run the `docsify serve docs` command
